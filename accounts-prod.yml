@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related production RestAPIs "
+  message: "Welcome to EazyBank accounts related production RestAPIs using dockerization"
   contactDetails:
     name: "Reine Aishwarya - Product Owner"
     email: "{cipher}fa82273bc45ae3cb4c67caf90b9b9937728b73de6bc9f7011481855f6f8e09a598b72d7976411afe33e7633a54476ffc"
